@@ -1,0 +1,25 @@
+.main_container {
+    width: 50% !important;
+}
+
+.dimensions {
+    width: 100%;
+    height: calc(100vh);
+}
+
+/* Add header text css */
+.add_todo_header {
+    color: white;
+}
+
+/* Modal header css */
+.header-customization {
+    background-color: #063c8b !important;
+    color: white !important;
+    height: 2.6rem;
+}
+
+/* Update btn css */
+.todo-update-btn-custom {
+    background-color: #063c8b !important;
+}
